@@ -52,4 +52,4 @@ MIT - делай что хочешь
 
 ## Автор
 
-Noseds
+BlurredDev
