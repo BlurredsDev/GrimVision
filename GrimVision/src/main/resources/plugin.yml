@@ -1,0 +1,7 @@
+name: GrimVision
+version: 1.0.0
+main: com.grimvision.GrimVision
+api-version: 1.16
+author: Noseds
+description: Gives permanent night vision to all players without particles or icon
+website: https://github.com/yourusername/GrimVision
